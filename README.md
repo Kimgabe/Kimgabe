@@ -7,9 +7,11 @@
 
 ## Data Languages
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/gabesoon/Learning-SQL-and-SQL-Tuning) : 
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://github.com/gabesoon/Learning-Python) : Ability to analyze data based on machine learning algorithm
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Python&logoColor=white)]() :
-[![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)]() :
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Python&logoColor=white)]()
+
+[![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)]()
 
 
 ## Note & blog
