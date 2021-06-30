@@ -5,7 +5,7 @@
 - '남 보다'가 아닌 '이전보다' 나은 사람이 되는 것을 추구합니다.
 
 
-## Languges
+## Data Languages
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/gabesoon/Learning-SQL-and-SQL-Tuning) : 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://github.com/gabesoon/Learning-Python) : Ability to analyze data based on machine learning algorithm
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Python&logoColor=white)]() :
@@ -13,7 +13,7 @@
 
 
 ## Note & blog
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)]()
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)]() 
 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Bloglovin&logoColor=white)]()
 
 
