@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=gabe's%20github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Wellcome%20gabe's%20github🙇‍♂️&fontSize=60)
 
 # Hi 👋, I'm Seungsoon Kim
 # "Try to be better than before, not to be better than others"
