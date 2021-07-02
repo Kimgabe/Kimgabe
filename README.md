@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=gabe's%20github&fontSize=90)
-## About..
+
+# Hi 👋, I'm Seungsoon Kim
+# "Try to be better than before, not to be better than others"
+---
+---
+
+
+## About me :D
 - 세상 만사에 호기심이 많습니다.
 - 가설을 세우고 검증하는 것을 좋아합니다.
 - 그래서 데이터 분석에 관심을 갖고 공부중입니다.
