@@ -2,8 +2,7 @@
 
 # Hi 👋, I'm Seungsoon Kim
 # "Try to be better than before, not to be better than others"
----
----
+
 
 
 ## About me :D
