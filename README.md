@@ -17,7 +17,7 @@
 ## Data Languages
 - SQL
 - R
-- Python(Numpy, Pandas, ML)(https://github.com/gabesoon/Python)
+- Python(Numpy, Pandas, ML)[https://github.com/gabesoon/Python]
 - Tableau
 
 ## Note & blog
