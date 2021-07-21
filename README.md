@@ -21,8 +21,8 @@
 - Tableau
 
 ## Note & Tableau
-[Notion - 노트 정리](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)]()   
-[Tableau - 시각화 공부/ 작업물](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)]()   
+[Notion - 노트 정리]()   
+[Tableau - 시각화 공부/ 작업물]()
 
 
 ## Contact 
