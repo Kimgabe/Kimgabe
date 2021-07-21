@@ -20,8 +20,9 @@
 - [Python](https://github.com/gabesoon/Python)
 - Tableau
 
-## Note & blog
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)]()     [![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Bloglovin&logoColor=white)]()
+## Note & Tableau
+[Notion - 노트 정리](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)]()   
+[Tableau - 시각화 공부/ 작업물](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)]()   
 
 
 ## Contact 
