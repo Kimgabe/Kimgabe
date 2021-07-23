@@ -25,10 +25,6 @@
 
 [Tableau - 시각화 공부/ 작업물]()
 
-
-## Contact 
-[![Gmail](https://img.shields.io/badge/nostelgia18@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)]: nostelgia18@gmail.com
-
 ## Summary
 
 ![gabesoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabesoon&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabesoon&layout=compact)](https://github.com/gabesoon/github-readme-stats)
