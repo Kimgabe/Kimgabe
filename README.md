@@ -27,7 +27,7 @@
 
 
 ## Contact 
-[![Gmail](https://img.shields.io/badge/nostelgia18@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](nostelgia18@gmail.com)
+[![Gmail](https://img.shields.io/badge/nostelgia18@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)]: nostelgia18@gmail.com
 
 ## Summary
 
