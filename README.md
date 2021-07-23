@@ -21,7 +21,7 @@
 - Tableau
 
 ## Note & Tableau
-[Data - Blog(준비중)](https://gabesoon.github.io/gabesoon_ds_blog/)
+[Data - Blog](https://gabesoon.github.io/gabesoon_ds_blog/)
 
 [Notion - 노트 정리]()   
 
