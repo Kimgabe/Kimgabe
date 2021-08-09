@@ -20,6 +20,11 @@
 - [Python](https://github.com/gabesoon/Python)
 - Tableau
 
+## Major Projects
+- [교통사고 위험구간 예측 모델](t.ly/uF8L)
+- [어떤 요인이 FDI를 유치하는데 도움이 될까?](t.ly/xsbK)
+- [아스날은 어떤 선수를 영입했으면 좋았을까?](t.ly/6GLD)
+
 ## Note & Tableau
 [Data - Blog](https://gabesoon.github.io/gabesoon_ds_blog/)
 
