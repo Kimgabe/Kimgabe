@@ -18,6 +18,7 @@
 - SQL
 - R
 - [Python](https://github.com/gabesoon/Python)
+- [Linux & Hadoop](https://www.notion.so/gabesoon/Linux-Hadoop-b942c9fbfbdc44bfbab8e9ace35464fa)
 - Tableau
 
 ## Major Projects
