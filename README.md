@@ -16,7 +16,7 @@
 
 ## Data Languages
 - SQL
-- R
+- [R](https://gabesoon.notion.site/R-bf841bdd11214154a7fe4493836a4ed5)
 - [Python](https://github.com/gabesoon/Python)
 - [Linux & Hadoop](https://www.notion.so/gabesoon/Linux-Hadoop-b942c9fbfbdc44bfbab8e9ace35464fa)
 - Tableau
