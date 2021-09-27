@@ -20,7 +20,7 @@
 - [R](https://gabesoon.notion.site/R-bf841bdd11214154a7fe4493836a4ed5)
 - [Python](https://github.com/gabesoon/Python)
 - [Linux & Hadoop](https://www.notion.so/gabesoon/Linux-Hadoop-b942c9fbfbdc44bfbab8e9ace35464fa)
-- Tableau
+- [Tableau]()
 
 ## Major Projects
 - [교통사고 위험구간 예측 모델](https://github.com/gabesoon/Projects/tree/main/%5B%EA%B3%B5%EB%AA%A8%EC%A0%84%5D%20%EB%8C%80%EC%A0%84%EC%8B%9C%20%EA%B5%90%ED%86%B5%EC%82%AC%EA%B3%A0%20%EC%9C%84%ED%97%98%EA%B5%AC%EA%B0%84%20%EC%98%88%EC%B8%A1%ED%95%98%EA%B8%B0)
