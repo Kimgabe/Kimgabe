@@ -32,7 +32,7 @@
 ## Note & Tableau
 [Data - Blog](https://gabesoon.github.io/gabesoon_ds_blog/)
 
-[Data Analysis Cheat note](https://gabesoon.notion.site/README-46d0652b7a134dc3a2bdec84c92b5fa7)
+[Data Analysis Cheat note](https://github.com/gabesoon/Data_analysis_Cheatsheet)
 
 [Tableau - 시각화 공부/ 작업물]()
 
