@@ -27,7 +27,7 @@
 - [아스날은 어떤 선수를 영입했으면 좋았을까?](https://github.com/gabesoon/Projects/tree/main/%5B%EC%8A%A4%ED%8F%AC%EC%B8%A0%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20EDA%5D%20%EB%88%84%EA%B5%AC%EB%A5%BC%20%EC%98%81%EC%9E%85%ED%95%B4%EC%95%BC%20%ED%95%A0%EA%B9%8C%3F)
 
 ## Note & Tableau
-[Data - Blog](https://gabesoon.github.io/gabesoon_ds_blog/)
+[Data - Blog](https://kimgabe.github.io/)
 
 [Data Analysis Cheat note](https://github.com/gabesoon/Data_analysis_Cheatsheet)
 
@@ -35,7 +35,7 @@
 
 ## Summary
 
-![gabesoon's GitHub stats]([https://github-readme-stats.vercel.app/api?username=gabesoon&show_icons=true&theme=tokyonight](https://kimgabe.github.io/)) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabesoon&layout=compact)](https://github.com/gabesoon/github-readme-stats)
+![gabesoon's GitHub stats]([https://github-readme-stats.vercel.app/api?username=gabesoon&show_icons=true&theme=tokyonight]) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabesoon&layout=compact)](https://github.com/gabesoon/github-readme-stats)
 
 ## Visitor counter
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgabesoon&count_bg=%23C83D90&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
