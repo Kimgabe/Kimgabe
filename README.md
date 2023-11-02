@@ -12,11 +12,7 @@
 - 그러기 위한 공부들을 기록하고 있습니다. 차차 다양한 기록들을 늘려가는 이 공간이 누군가에게도 도움이 되는 기록이 되길 바랍니다 🙏
 
 ## Data Languages
-- SQL
-- [R](https://gabesoon.notion.site/R-bf841bdd11214154a7fe4493836a4ed5)
-- [Python](https://github.com/gabesoon/Python)
-- [Linux & Hadoop](https://www.notion.so/gabesoon/Linux-Hadoop-b942c9fbfbdc44bfbab8e9ace35464fa)
-- [Tableau]()
+<div align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimgabe&layout=compact&theme=onedark)</div>
 
 ## Major Projects
 - [교통사고 위험구간 예측 모델](https://github.com/gabesoon/Projects/tree/main/%5B%EA%B3%B5%EB%AA%A8%EC%A0%84%5D%20%EB%8C%80%EC%A0%84%EC%8B%9C%20%EA%B5%90%ED%86%B5%EC%82%AC%EA%B3%A0%20%EC%9C%84%ED%97%98%EA%B5%AC%EA%B0%84%20%EC%98%88%EC%B8%A1%ED%95%98%EA%B8%B0)
@@ -33,7 +29,7 @@
 [Tableau - 시각화 공부/ 작업물]()
 
 ## Summary
-![Kimgabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimgabe&show_icons=true&theme=onedark)
+<div align="center">![Kimgabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimgabe&show_icons=true&theme=onedark)</div>
 
 ## Visitor counter
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgabesoon&count_bg=%23C83D90&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
