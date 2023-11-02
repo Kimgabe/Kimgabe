@@ -7,13 +7,10 @@
 
 ## About me :D
 - 이 github는 컴퓨터 공학 지식이 없는 문과생이 데이터 분석을 배워가는 기록입니다.
-- **저는** 세상 모든일들이 왜 벌어지는지에 대한 호기심이 많은 사람입니다.
-- 그러다보니 "이 현상은 이래서 발생한 것이지 않을까?" 라는 가설을 세우고 하나 하나 확인하는 것에 즐거움을 느꼈습니다.
-- 특히, 제 전공인 Int'l Trade & Commerce 에서 그 궁금증이 더 컸고, 석사 과정에서 그 '왜' 를 '데이터'를 통해 심도있게 검증할 수 있음을 배웠습니다.
-- **그러다보니**  "내가 가진 많은 호기심들을 데이터를 통해 분석해보고 알고싶다" 는 욕심이 생겼고, 빅데이터 분석에 관심을 갖고 공부하고 있습니다.
-- **저는**  당장은 부족해도, 전보다 나은 내가 되는 삶을 꿈꿉니다.
-- **저는**   배워서 남줄 때가 행복합니다.
-- **그래서**  전 보다 나은 내가 누군가에게 조금이라도 도움이 되면 좋겠습니다.🙏
+- 데이터 분석 직무를 하기 위해 문과계열을 전공하고 부트캠프 참여와 독학을 통해 관련 지식을 키우고 있습니다.
+- 국제통상을 전공하며 글로벌 데이터를 활용한 경제/사회 현상을 분석하며 데이터 분석에 흥미를 느끼게 되어 데이터 분석 부트캠프를 수료하고, 스타트업에서 AI관련 사업 개발 및 컨설팅을 1년간 경험했습니다.
+- 이 경험으로 AI분야 사업에 대한 이해를 기를 수 있었지만, 기획자보다는 실제 직무를 수행하는 Player가 되고 싶었습니다.
+- 그러기 위한 공부들을 기록하고 있습니다.
 
 ## Data Languages
 - SQL
@@ -38,7 +35,7 @@
 
 ## Summary
 
-![gabesoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabesoon&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabesoon&layout=compact)](https://github.com/gabesoon/github-readme-stats)
+![gabesoon's GitHub stats]([https://github-readme-stats.vercel.app/api?username=gabesoon&show_icons=true&theme=tokyonight](https://kimgabe.github.io/)) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabesoon&layout=compact)](https://github.com/gabesoon/github-readme-stats)
 
 ## Visitor counter
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgabesoon&count_bg=%23C83D90&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
