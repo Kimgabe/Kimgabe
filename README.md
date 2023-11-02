@@ -2,15 +2,16 @@
 
 # Hi 👋, I'm Seungsoon Kim
 # "Try to be better than before, not to be better than others"
-
-
+# "배워서 쓸수 없는 공부는 의미가 없다. 다른 사람을 키워주는 공부가 진정한 공부다" 
 
 ## About me :D
-- 이 github는 컴퓨터 공학 지식이 없는 문과생이 데이터 분석을 배워가는 기록입니다.
+- 이 GitHub는 컴퓨터 공학 지식이 없는 문과생이 데이터 분석과 AI를 배워가는 기록입니다.
 - 데이터 분석 직무를 하기 위해 문과계열을 전공하고 부트캠프 참여와 독학을 통해 관련 지식을 키우고 있습니다.
 - 국제통상을 전공하며 글로벌 데이터를 활용한 경제/사회 현상을 분석하며 데이터 분석에 흥미를 느끼게 되어 데이터 분석 부트캠프를 수료하고, 스타트업에서 AI관련 사업 개발 및 컨설팅을 1년간 경험했습니다.
-- 이 경험으로 AI분야 사업에 대한 이해를 기를 수 있었지만, 기획자보다는 실제 직무를 수행하는 Player가 되고 싶었습니다.
-- 그러기 위한 공부들을 기록하고 있습니다.
+- 이 경험으로 AI분야 사업에 대한 이해를 기를 수 있었지만, Business Strategist 보다는 데이터, AI와 관련된 실제 직무를 수행하는 On field Player가 되고 싶었습니다.
+- 그러기 위한 공부들을 기록하고 있습니다. 차차 다양한 기록들을 늘려가는 이 공간이 누군가에게도 도움이 되는 기록이 되길 바랍니다 🙏
+
+![Kimgabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimgabe&show_icons=true&theme=스타일)
 
 ## Data Languages
 - SQL
