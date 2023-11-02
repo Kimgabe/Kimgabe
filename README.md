@@ -11,8 +11,6 @@
 - 이 경험으로 AI분야 사업에 대한 이해를 기를 수 있었지만, Business Strategist 보다는 데이터, AI와 관련된 실제 직무를 수행하는 On field Player가 되고 싶었습니다.
 - 그러기 위한 공부들을 기록하고 있습니다. 차차 다양한 기록들을 늘려가는 이 공간이 누군가에게도 도움이 되는 기록이 되길 바랍니다 🙏
 
-![Kimgabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimgabe&show_icons=true&theme=스타일)
-
 ## Data Languages
 - SQL
 - [R](https://gabesoon.notion.site/R-bf841bdd11214154a7fe4493836a4ed5)
@@ -35,7 +33,7 @@
 [Tableau - 시각화 공부/ 작업물]()
 
 ## Summary
-
+![Kimgabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimgabe&show_icons=true&theme=onedark)
 
 ## Visitor counter
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgabesoon&count_bg=%23C83D90&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
