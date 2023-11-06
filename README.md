@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Wellcome%20gabe's%20github🙇‍♂️&fontSize=60)
 
 # Hi 👋, I'm Seungsoon Kim
-# "Try to be better than before, not to be better than others"
-# "배워서 쓸수 없는 공부는 의미가 없다. 다른 사람을 키워주는 공부가 진정한 공부다" 
+## "Try to be better than before, not to be better than others"
+## "배워서 쓸수 없는 공부는 의미가 없다. 다른 사람을 키워주는 공부가 진정한 공부다" 
 
 ## About me :D
 - 이 GitHub는 컴퓨터 공학 지식이 없는 문과생이 데이터 분석과 AI를 배워가는 기록입니다.
@@ -10,6 +10,10 @@
 - 국제통상을 전공하며 글로벌 데이터를 활용한 경제/사회 현상을 분석하며 데이터 분석에 흥미를 느끼게 되어 데이터 분석 부트캠프를 수료하고, 스타트업에서 AI관련 사업 개발 및 컨설팅을 1년간 경험했습니다.
 - 이 경험으로 AI분야 사업에 대한 이해를 기를 수 있었지만, Business Strategist 보다는 데이터, AI와 관련된 실제 직무를 수행하는 On field Player가 되고 싶었습니다.
 - 그러기 위한 공부들을 기록하고 있습니다. 차차 다양한 기록들을 늘려가는 이 공간이 누군가에게도 도움이 되는 기록이 되길 바랍니다 🙏
+
+## GitHub Blog
+- AI를 공부하면서 정리한 개념, 관련 지식 등에 대해 블로그에 정리하고 있습니다.
+[Data - Blog](https://kimgabe.github.io/)
 
 ## Data Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimgabe&layout=compact&theme=onedark)
@@ -22,8 +26,6 @@
 - [아스날은 어떤 선수를 영입했으면 좋았을까?](https://github.com/gabesoon/Projects/tree/main/%5B%EC%8A%A4%ED%8F%AC%EC%B8%A0%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20EDA%5D%20%EB%88%84%EA%B5%AC%EB%A5%BC%20%EC%98%81%EC%9E%85%ED%95%B4%EC%95%BC%20%ED%95%A0%EA%B9%8C%3F)
 
 ## Note & Tableau
-[Data - Blog](https://kimgabe.github.io/)
-
 [Data Analysis Cheat note](https://github.com/gabesoon/Data_analysis_Cheatsheet)
 
 [Tableau - 시각화 공부/ 작업물]()
