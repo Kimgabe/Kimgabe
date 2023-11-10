@@ -28,7 +28,7 @@
 ## Note & Tableau
 [Data Analysis Cheat note](https://github.com/gabesoon/Data_analysis_Cheatsheet)
 
-[Tableau - 시각화 공부/ 작업물]()
+[Tableau - 시각화 공부/ 작업물]() - 수정중입니다🫡
 
 ## Visitor counter
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgabesoon&count_bg=%23C83D90&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
